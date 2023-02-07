@@ -1,6 +1,6 @@
 {
   "name": "@wiko/my-module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "My new Nuxt module",
   "license": "MIT",
   "type": "module",
@@ -52,7 +52,7 @@
     "nuxt": "^3.1.2",
     "vitest": "^0.28.3"
   },
-    "publishConfig": {
-      "access": "public"
+  "publishConfig": {
+    "access": "public"
   }
 }
