@@ -1,6 +1,17 @@
 # Changelog
 
 
+## v1.0.7
+
+
+### 🩹 Fixes
+
+  - Remove alias inside build module (d567ec9)
+
+### ❤️  Contributors
+
+- Alam <alam@privyid.tech>
+
 ## v1.0.6
 
 
