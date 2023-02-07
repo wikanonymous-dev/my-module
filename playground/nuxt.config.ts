@@ -3,7 +3,7 @@ import MyModule from '../src/module'
 
 export default defineNuxtConfig({
   modules: [MyModule],
-  alias: { 'my-module': fileURLToPath(new URL('../src/', import.meta.url))},
+  alias: { '@wiko/my-module': fileURLToPath(new URL('../src/', import.meta.url))},
   typescript: {
     tsConfig: {
       compilerOptions: {

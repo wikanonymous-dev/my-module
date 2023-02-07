@@ -1,5 +1,5 @@
 {
-  "name": "my-module",
+  "name": "@wiko/my-module",
   "version": "1.0.3",
   "description": "My new Nuxt module",
   "license": "MIT",

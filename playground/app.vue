@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-import { runConsole } from 'my-module'
+import { runConsole } from '@wiko/my-module'
 
 runConsole()
 </script>
