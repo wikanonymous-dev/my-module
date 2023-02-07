@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v1.0.6
+
+
+### 🩹 Fixes
+
+  - Build config external deps (61ed352)
+  - Build config external deps (8716e9c)
+
+### 🏡 Chore
+
+  - Package name (ad5eb4c)
+
+### ❤️  Contributors
+
+- Alam <alam@privyid.tech>
+
 ## v1.0.5
 
 
