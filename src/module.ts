@@ -5,7 +5,7 @@ export interface ModuleOptions {}
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: '@wiko/my-module',
+    name: 'wiko-my-module',
     configKey: 'myModule'
   },
   // Default configuration options of the Nuxt module
